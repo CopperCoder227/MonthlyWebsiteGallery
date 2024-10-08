@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+body {
+  background-color: black;
+  color: hsl(0, 0%, 99%);
+  text-align: center;
+  }
+
+.star{
+    height: 50px;
+    width: 50px;
+}
