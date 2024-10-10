@@ -4,7 +4,8 @@ html {
   }
   
 body {
-  background-color: rgb(49, 49, 49);
+  background: url(imgs/stars.jpg!d);
+  background-size: cover;
   text-align: center;
   }
 
@@ -19,7 +20,11 @@ body {
 }
 
 .zoe:hover{
-
+  border-radius: 6px;
+  border: 4px solid #dcdee9;
+  background-color: #dcdee9;
+  color: #dcdee9;;
+  mix-blend-mode: add;
 }
 
 .btn-fancy {
